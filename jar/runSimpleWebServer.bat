@@ -1,0 +1,1 @@
+java --module-path "D:\java fx21\javafx-sdk-21.0.3/lib" --add-modules javafx.controls,javafx.fxml -jar "D:\TUGAS UDINUS\SEMESTER 4\PBO\SimpleWebServer\target\SimpleWebServer-1.0-SNAPSHOT-jar-with-dependencies.jar"
